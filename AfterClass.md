@@ -11,4 +11,4 @@ Ques.1) which command is used to convert NodeList to Array?
 
 ANS
 var x = "foo";
- My Code: Array.from(x); 
+Array.from(x); 
